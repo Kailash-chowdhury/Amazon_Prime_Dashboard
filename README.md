@@ -5,8 +5,6 @@ This Power BI report provides a comprehensive analysis of Amazon prime TV Shows 
 Breakdown of content by Movie or Tv show categories.
 ## Country-wise  Map:
 Geographic distribution of content provided by countries displayed on an interactive map.
-## Yearly Trends:
-Data is organized to showcase trends over multiple years, enabling a better understanding of how the amazon content has evolved. It provides a year-by-year comparison to spot growth patterns..
 ## Yearly Trends Analysis
 The data is structured to highlight trends over multiple years, offering a comprehensive view of the number of TV shows and movies released by Amazon. By presenting a year-by-year comparison, this analysis helps identify growth patterns and variations in content production over time.
 ## Rating Analysis:
