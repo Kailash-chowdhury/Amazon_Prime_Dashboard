@@ -1,5 +1,5 @@
 # Amazon_Prime_Dashboard
-This Power BI report provides a comprehensive analysis of Amazon prime TV Shows and Movies, offering insights through interactive visualizations. The dashboard is designed to help users track key performance metrics, analyze trends, and make data-driven decisions.
+This Power BI Dashboard provides a comprehensive analysis of Amazon prime TV Shows and Movies, offering insights through interactive visualizations. The dashboard is designed to help users track key performance metrics, analyze trends, and make data-driven decisions.
 The dashboard uses a combination of charts (like bar charts, donut cahrts, map, cards) and tables to visualize data effectively. It highlights essential KPIs such as total movie, Tv shows, and top-performing genre. With this user-friendly dashboard, decision-makers can quickly extract valuable insights, identify trends, and drive informed strategies for their contents.
 
 ## Category Analysis:
